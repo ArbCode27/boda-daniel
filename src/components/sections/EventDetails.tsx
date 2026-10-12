@@ -41,14 +41,14 @@ export const EventDetails = () => {
               </div>
 
               <div className="lg:col-span-7">
-                <dl className="grid gap-6 sm:grid-cols-2">
-                  <div>
+                <dl className="flex flex-wrap items-center justify-center gap-x-14 gap-y-8 text-center">
+                  <div className="flex flex-col items-center">
                     <dt className="font-sans text-[11px] tracking-[0.28em] text-forest uppercase">
                       Ceremonia
                     </dt>
                     <dd className="mt-2 font-serif text-3xl text-forest">{wedding.ceremonyTime}</dd>
                   </div>
-                  <div>
+                  <div className="flex flex-col items-center">
                     <dt className="font-sans text-[11px] tracking-[0.28em] text-forest uppercase">
                       Banquete
                     </dt>

@@ -30,7 +30,7 @@ export const wedding = {
   story:
     "Hay encuentros que no se explican: se reconocen. Hoy queremos compartir con ustedes el comienzo de una vida en común, con la gratitud de quienes han caminado a nuestro lado y el deseo de un día sereno, hermoso y nuestro.",
   dressNote:
-    "Les pedimos un vestuario en ocre, bronce, ámbar y dorado.",
+    "Pueden elegir un vestuario acorde a la ocasión, en los tonos que se muestran aquí.",
   accessNotes:
     "La celebración es en Casa Blanca Ranch, en La Magdalena, estado Miranda. El mapa abre el punto de llegada.",
   passes: "Tres pases por familia",
