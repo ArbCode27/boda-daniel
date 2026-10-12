@@ -1,7 +1,6 @@
 import FadeContent from "@/components/FadeContent";
 import ScrollReveal from "@/components/ScrollReveal";
 import { OliveBranch } from "@/components/shared/OliveBranch";
-import { PaperLabel } from "@/components/shared/PaperLabel";
 import { DoubleBorder } from "@/components/shared/DoubleBorder";
 import { Section } from "@/components/shared/Section";
 import { Card, CardContent } from "@/components/ui/card";
